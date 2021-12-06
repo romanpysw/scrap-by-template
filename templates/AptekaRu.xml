@@ -1,0 +1,25 @@
+<data>
+    <WebList list_name="cards-list" item_name="catalog-card" page_iterator="i"/>
+    <CSSSelectors>
+        <item name="Наименование" type="Text">catalog-card__name</item>
+        <item name="Производитель " type="Text">catalog-card__vendor</item>
+        <item name="Цена" type="Number">moneyprice__roubles</item>
+        <item name="Ссылка" type="URL">url</item>
+    </CSSSelectors>
+    <DataURL>
+        <item>https://apteka.ru/sym/leka/kost/?page=</item>
+        <item>https://apteka.ru/sym/leka/gorm/?page=</item>
+        <item>https://apteka.ru/sym/leka/moche/?page=</item>
+        <item>https://apteka.ru/sym/leka/proti/?page=</item>
+        <item>https://apteka.ru/sym/leka/derm/?page=</item>
+        <item>https://apteka.ru/sym/leka/nerv/?page=</item>
+        <item>https://apteka.ru/sym/leka/protiv/?page=</item>
+        <item>https://apteka.ru/sym/leka/diha/?page=</item>
+        <item>https://apteka.ru/sym/leka/pishe/?page=</item>
+        <item>https://apteka.ru/sym/leka/proch/?page=</item>
+        <item>https://apteka.ru/sym/leka/prep/?page=</item>
+        <item>https://apteka.ru/sym/leka/krov/?page=</item>
+        <item>https://apteka.ru/sym/leka/serd/?page=</item>
+        <item>https://apteka.ru/sym/leka/prot/?page=</item>
+    </DataURL>
+</data>

@@ -1,0 +1,14 @@
+<data>
+    <WebList list_name="goods-grid__inner" item_name="ui-card" page_iterator="12*i" />
+    <CSSSelectors>
+        <item name="Наименование" type="Text">goods-card__link</item>
+        <item name="Производитель" type="Text">legalName</item>
+        <item name="Цена" type="Number">goods-card__cost</item>
+        <item name="Ссылка" type="URL">url</item>
+    </CSSSelectors>
+    <DataURL>
+        <item>https://apteka-ot-sklada.ru/krasnoyarsk/catalog/medikamenty-i-bady?start=</item>
+        <item>https://apteka-ot-sklada.ru/krasnoyarsk/catalog/tovary-dlya-mamy-i-malysha?start=</item>
+        <item>https://apteka-ot-sklada.ru/krasnoyarsk/catalog/kosmetika?start=</item>
+    </DataURL>
+</data>
